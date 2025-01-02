@@ -12,7 +12,7 @@ Key Features:
 - Interactive elements
 - Clean UI following the provided Figma design
 
-Deployed on Vercel for live access: [Untitled UI Demo](https://untitled-ui-wine.vercel.app/)
+Deployed on Vercel for live access: [Zysk Technologies Demo](https://zysk-technologies-psi.vercel.app/)
 
 ## Installation Instructions
 
